@@ -1,0 +1,12 @@
+.md-grid {
+  margin-left: 50px;
+  max-width: 65rem;
+}
+
+*, ::after, ::before {
+  box-sizing: unset;
+}
+
+.md-sidebar {
+  width: 8rem;
+}
